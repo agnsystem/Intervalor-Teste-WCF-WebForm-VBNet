@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:55001/SuspeitoService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/InterValor.WCF" />
+  <xs:element name="ListarTodos">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ListarTodosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/InterValor.WCF" minOccurs="0" name="ListarTodosResult" nillable="true" type="q1:ArrayOfSuspeito" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="InterValor.WCF.SuspeitoService" CodeBehind="SuspeitoService.svc.vb" %>

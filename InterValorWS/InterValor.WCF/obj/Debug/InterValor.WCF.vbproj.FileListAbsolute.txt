@@ -1,0 +1,14 @@
+D:\Treinamento\InterValor\InterValor.WCF\bin\InterValor.WCF.dll.config
+D:\Treinamento\InterValor\InterValor.WCF\bin\InterValor.WCF.dll
+D:\Treinamento\InterValor\InterValor.WCF\bin\InterValor.WCF.pdb
+D:\Treinamento\InterValor\InterValor.WCF\bin\InterValor.WCF.xml
+D:\Treinamento\InterValor\InterValor.WCF\bin\EntityFramework.dll
+D:\Treinamento\InterValor\InterValor.WCF\bin\EntityFramework.SqlServer.dll
+D:\Treinamento\InterValor\InterValor.WCF\bin\EntityFramework.xml
+D:\Treinamento\InterValor\InterValor.WCF\bin\EntityFramework.SqlServer.xml
+D:\Treinamento\InterValor\InterValor.WCF\obj\Debug\InterValor.WCF.vbprojResolveAssemblyReference.cache
+D:\Treinamento\InterValor\InterValor.WCF\obj\Debug\InterValor.WCF.Resources.resources
+D:\Treinamento\InterValor\InterValor.WCF\obj\Debug\InterValor.WCF.vbproj.GenerateResource.Cache
+D:\Treinamento\InterValor\InterValor.WCF\obj\Debug\InterValor.WCF.dll
+D:\Treinamento\InterValor\InterValor.WCF\obj\Debug\InterValor.WCF.xml
+D:\Treinamento\InterValor\InterValor.WCF\obj\Debug\InterValor.WCF.pdb
